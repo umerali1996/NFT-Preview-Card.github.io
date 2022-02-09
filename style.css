@@ -64,7 +64,7 @@ body {
     color: var(--cyan);
 }
 
-section {
+.nft-details {
     display: flex;
     justify-content: space-between;
 }
